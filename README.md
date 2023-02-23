@@ -18,6 +18,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/pedroitf6/dio-desafio-github/blob/master/Desafios/Java/Dominando%20Algoritmos%20B%C3%A1sicos%20com%20Desafios%20de%20C%C3%B3digo%20Java/MesadaSobrinho.java">Mesada do Sobrinho</a><br/>
     <a href="https://github.com/pedroitf6/dio-desafio-github/blob/master/Desafios/Java/Dominando%20Algoritmos%20B%C3%A1sicos%20com%20Desafios%20de%20C%C3%B3digo%20Java/DownloadDePacotes.java">Download de Pacotes</a><br/>
     <a href="https://github.com/pedroitf6/dio-desafio-github/blob/master/Desafios/Java/Dominando%20Algoritmos%20B%C3%A1sicos%20com%20Desafios%20de%20C%C3%B3digo%20Java/LeituraDaGertrudes.java">Leitura da Gertrudes</a><br/>
+    <a href="https://github.com/pedroitf6/dio-desafio-github/blob/master/Desafios/Java/Dominando%20Algoritmos%20B%C3%A1sicos%20com%20Desafios%20de%20C%C3%B3digo%20Java/IndustriaDaMulta.java">Industria da Multa</a><br/>
+    <a href="https://github.com/pedroitf6/dio-desafio-github/blob/master/Desafios/Java/Dominando%20Algoritmos%20B%C3%A1sicos%20com%20Desafios%20de%20C%C3%B3digo%20Java/LojinhaDeDoces.java">Lojinha de Doces</a><br/>
     
 </div>
 </details>
