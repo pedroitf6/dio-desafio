@@ -10,6 +10,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 [Livro Git Pro - pt-BR](https://git-scm.com/book/pt-br/v2)
 
 
+## DESAFIOS E ATIVIDADES
+
 <!-- Java -->
 <details>
   <summary><span>Java</span></summary>
@@ -26,6 +28,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <div>
     <h4>Programação Orientada a Objetos</h4>
     <a href="https://github.com/pedroitf6/dio-desafio/tree/master/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objeto%20(POO)/Estrutura%20b%C3%A1sica%20da%20OO">Estrutura básica da OO</a><br/>
+    <a href="https://github.com/pedroitf6/dio-desafio/tree/master/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objeto%20(POO)/Heran%C3%A7a%2C%20Associa%C3%A7%C3%A3o%20e%20Inferface">Herança, Associação e Inferface</a><br/>
     
 </div>
 </details>
