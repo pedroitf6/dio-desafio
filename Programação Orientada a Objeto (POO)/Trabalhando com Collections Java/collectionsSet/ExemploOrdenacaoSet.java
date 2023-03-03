@@ -1,5 +1,18 @@
 package collectionsSet;
 
+/*
+[x] class Gato - nome, idade, cor
+[x] new ArrayList()
+[x] Collections.shuffle()
+[x] Collections.sort()
+[x] sort()
+[x] Comparable
+https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/
+[x] new ComparatorIdade()
+[x] new ComparatorCor()
+[x] new ComparatorNomeGeneroTempoEpisodio()
+ */
+
 /*Dadas as seguintes informações sobre minhas séries favoritas,
 crie um conjunto e ordene este conjunto exibindo:
 (nome - genero - tempo de episódio);

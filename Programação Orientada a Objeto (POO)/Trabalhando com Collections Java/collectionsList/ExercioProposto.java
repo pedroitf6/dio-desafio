@@ -3,7 +3,7 @@ Após isto, calcule a média semestral das temperaturas e mostre todas as temper
 e em que mês elas ocorreram (mostrar o mês por extenso: 1 – Janeiro, 2 – Fevereiro e etc). 
 */
 
-package collectionList;
+package collectionsList;
 
 import java.util.ArrayList;
 import java.util.Iterator;
