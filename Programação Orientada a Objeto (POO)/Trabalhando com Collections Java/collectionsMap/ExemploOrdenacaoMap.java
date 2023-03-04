@@ -1,5 +1,16 @@
 package collectionsMap;
 
+/*
+[x] class Livro - nome e qtdPaginas
+[x] new HashMap()
+[x] new LinkedHashMap()
+[x] new TreeMap()
+[x] new TreeSet()
+[x] addAll
+[x] new ComparatorNomeLivro()
+ */
+
+
 /*Dadas as seguintes informações sobre meus livros favoritos e seus autores,
 crie um dicionário e ordene este dicionário:
 exibindo (Nome Autor - Nome Livro);
